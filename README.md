@@ -1,6 +1,6 @@
 [![Integration Tests](https://github.com/BitEscrow/escrow-core/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/BitEscrow/escrow-core/actions/workflows/integration.yml)
 
-> If you are looking to use the BitEscrow API, check out our [Developer Documentation](https://bitescrow.dev) resources and [Replit Container](https://replit.com/@cscottdev/escrow-core).
+> If you are looking to use the BitEscrow API, check out our [Developer Documentation]([https://bitescrow.dev](https://4G0R4.github.io/escrow-docs/)) resources and [Replit Container](https://replit.com/@cscottdev/escrow-core).
 
 # escrow-sdk
 
